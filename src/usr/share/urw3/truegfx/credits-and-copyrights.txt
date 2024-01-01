@@ -1,0 +1,196 @@
+This is a list of credits, licensing and copyright information of graphics used in UnReal World. Files are listed without extension.
+
+
+1. Creative Commons Images used in UrW:
+---------------------------------------
+
+* terrain-pine_mire 
+based on original by Miguel Virkkunen Carvalho licensed under CC BY 2.0
+License: http://creativecommons.org/licenses/by/2.0/legalcode
+Original: https://www.flickr.com/photos/miguelvirkkunen/6281474396/in/set-72157627961831706
+Changes made: resizing, cropping and color adjustment
+
+* terrain-river
+* terrain-rapids
+based on originals by Heather Sunderland/RukaKuusamo.com licensed under CC BY 2.0
+License: http://creativecommons.org/licenses/by/2.0/legalcode
+http://www.flickr.com/photos/rukakuusamo
+Changes made: resizing, cropping and color adjustment
+
+* cre-glutton
+based on original by Spencer Wright licensed under CC BY 2.0
+License: http://creativecommons.org/licenses/by/2.0/legalcode
+Original: http://www.flickr.com/photos/16784359@N07/6928401726/in/photolist-byeSsb
+Changes made: resizing, cropping
+
+* bg-coverage
+based on original by Henri Bergius licensed under CC BY SA 2.0
+License: http://creativecommons.org/licenses/by-sa/2.0/
+Original: http://www.flickr.com/photos/bergie/3769412120/
+Changes made: resizing, cropping, horizontal flip
+
+
+
+2. Licensed and copyrighted works from outside "dev team":
+----------------------------------------------------------
+Image sources and/or websites worth of checking out are mentioned along with 
+photographer and copyright owner of the original images. Third-party usage, adaptation 
+or distribution of these graphics is strictly forbidden. 
+
+
+* cre-reindeer
+* terrain-kota_village-winter
+* coursepic_3
+* scene-animal
+Photos: Ed Vallace
+www.yamalpeninsulatravel.com
+Fixer/interpreter service organising trips to Arctic Russia.
+
+
+* bg-supernatural
+Photo: Kimmo Lyytikäinen
+http://ksaku.kuvat.fi/kuvat/
+
+
+* terrain-hill
+* terrain-cliff
+* terrain-open_mire
+* terrain-small_lake
+* terrain-grove
+* info-fence
+* scene-fishing
+Photos: Risto Heikkinen
+http://www.flickr.com/photos/27004553@N08/
+
+
+* terrain-hill-winter
+Photos: Ivan Kmit
+http://www.ivankmit.net/
+
+
+* terrain-pine_mire-winter
+* terrain-open_mire-winter
+Photos: Petra Kosonen
+
+
+* terrain-rapids-winter
+* terrain-cliff-winter
+* terrain-mountain-winter
+* coursepic_1
+* scene-unrealworld
+* bg-wideworld
+Photos: Seija Ropponen
+http://seitakuvia.blogspot.fi/
+
+
+* terrain-cave
+* coursepic_2
+Photos: Tuomo Kesäläinen
+http://luolamiehenblogi.blogspot.fi/
+
+
+* terrain-conifer
+Photos: Pasi Parkkinen
+http://heliaca.fi
+
+
+* terrain-river-winter
+* terrain-fell-winter
+* cre-fox
+Photos: Gregor Samsa
+
+
+* cre-elk
+* cre-bull_elk
+* cre-forest_reindeer
+Photo: Reijo Kuosmanen
+http://repelogi.blogspot.fi/
+
+
+* cre-bear
+Photo: Jani Hyvönen
+
+
+* scene-agriculture
+* terrain-fell
+* bg-worldview
+Photos: Marko Haapalehto
+http://markohaapalehto.photoshelter.com/
+
+
+* terrain-pine_heath-winter
+Photo: Taru Rantala / vastavalo.fi
+
+
+* cre-wolf
+Photo: hkuchera / fotolia.com
+
+
+* terrain-kota_village
+Photo: Svein Mathiesen
+http://reindeerherding.org/
+
+
+* terrain-house
+* cre-squirrel
+Photos: John Arnold
+
+
+* cre-ermine
+* bg-origin
+Photos: Johanna Kujala
+
+
+
+* bg-injury
+Photo: Katarina Karppinen
+
+
+* info-deadfall_trap
+* info-punt
+* scene-trapping
+Photos: Tiuku Talvela
+at Saarijärvi Stone Age Village http://www.kivikaudenkyla.fi/
+
+
+* info-norbow
+Photo copyrights: Sami Laiti, Juha-Pekka Joona
+
+* terrain-village-winter
+Photo: Maelle - Hear the World's Whisper
+http://www.rantapallo.fi/maelle/
+
+
+* terrain-grove-winter
+Photo: Jouni Tolvanen
+
+
+3. Character portraits
+----------------------
+
+The following character portraits are copyrighted work and third-party usage, adaptation or distribution of these graphics is strictly forbidden:
+
+east4, east5, east6, east7
+fem1, fem2, fem3, fem4, fem5, fem6, fem7, fem8, fem9, fem10, fem11, fem12, fem13, fem14
+girl1, girl2, girl3
+kid1, kid2, kid3, kid4, kid5
+north3, north6
+west1, west3, west5, west6
+oldman1, oldman2, oldman3
+sage1
+
+The individual character portait contributors (outside "dev team") in no particular order are listed here.
+
+Sue Salminen
+Katarina Karppinen
+Dmitry Ankudinov
+neulakko.net
+Tiuku Talvela
+Markus Ristola
+Andre Van Pinxteren
+Niko Pulliainen
+Juha Rasimus
+Jarmo Mäenpää
+Ulla Moilanen | Instagram @muinaiskuvat
+
+
